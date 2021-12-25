@@ -1,7 +1,6 @@
 # Bd Bike
 ### Best Seller of Bike BD . Select Your Best Motor Bike And connet with us
 
-Bd Bike Website Link [bdBike.com](https://bike-sell-64703.web.app).
 
 ## In Our Bd Bike website you get all brand Bikes like Honda,Suzuki,YAMAHA,Apache,Hero,Bajaj ect.
 ## Our website Home You see Best Quelity Bikes And More Products You see All Quility of Bikes
